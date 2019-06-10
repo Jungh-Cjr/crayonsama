@@ -1,0 +1,28 @@
+{
+	"name": "CrayonSama",
+	"scripts": {
+		"dev": "nuxt",
+		"build": "nuxt build",
+		"start": "nuxt start"
+	},
+	"dependencies": {
+		"axios": "^0.18.0",
+		"iview": "^3.1.5",
+		"lyric-parser": "^1.0.1",
+		"moment": "^2.22.2",
+		"muse-ui": "^3.0.1",
+		"nuxt": "^2.3.4",
+		"vue-notifications": "^0.9.0",
+		"vuex": "^3.0.1"
+	},
+	"config": {
+		"nuxt": {
+			"host": "localhost",
+			"port": "2424"
+		}
+	},
+	"devDependencies": {
+		"less": "^3.9.0",
+		"less-loader": "^4.1.0"
+	}
+}

@@ -1,0 +1,15 @@
+.content-width{
+	width: 1180px;
+	height: 100%;
+	margin: 0 auto;
+}
+.flex{
+	display: flex;
+	align-items: center;
+}
+div{
+	color: #000000;
+}
+a{
+	color: #000000 !important;
+}
